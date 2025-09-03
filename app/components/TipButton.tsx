@@ -50,7 +50,7 @@ export default function TipButton({
   return (
     <>
       <button
-        onClick={() => onCloseModal ? {} : onTip(0.25)}
+        onClick={() => onCloseModal ? onCloseModal() : onTip(0.25)}
         disabled={variant === 'processing'}
         className={`w-full flex items-center justify-center space-x-2 py-3 rounded-lg font-medium transition-all duration-200 ${
           variant === 'processing'
