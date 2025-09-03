@@ -1,0 +1,14 @@
+{
+  "name": "TipSync",
+  "description": "TipSync is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://889441f3-6586-4f10-868e-4233c391d66e.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "TipSync",
+      "description": "TipSync is a Base Mini App built with Zara.",
+      "url": "https://889441f3-6586-4f10-868e-4233c391d66e.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

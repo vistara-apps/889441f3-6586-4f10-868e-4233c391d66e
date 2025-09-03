@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TipSync",
+    "subtitle": "Built with Zara",
+    "description": "TipSync is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://889441f365864f10868e4233c391d66e-lhe3-jzvtxcjyr-vistara.vercel.app",
+    "splashImageUrl": "https://889441f365864f10868e4233c391d66e-lhe3-jzvtxcjyr-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://889441f365864f10868e4233c391d66e-lhe3-jzvtxcjyr-vistara.vercel.app/image.png",
+    "tagline": "TipSync",
+    "screenshotUrls": [
+      "https://889441f365864f10868e4233c391d66e-lhe3-jzvtxcjyr-vistara.vercel.app/screenshot.png",
+      "https://889441f365864f10868e4233c391d66e-lhe3-jzvtxcjyr-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://889441f365864f10868e4233c391d66e-lhe3-jzvtxcjyr-vistara.vercel.app/api/webhook"
+  }
+}
